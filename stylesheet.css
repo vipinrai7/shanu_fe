@@ -1,0 +1,29 @@
+*{
+  font-family: sans-serif;
+}
+#center-console{
+  height:300px;
+  width: 400px;
+  margin-left: 500px;
+  margin-top: 200px;
+  background-color: #264348;
+  color: white;
+}
+#center-console h1{
+  padding-left: 100px;
+}
+a{
+  border: white solid 1px;
+  font-size: 24px;
+  margin-left: 150px;
+  color: white;
+}
+table{
+  background-color: #264348;
+  color: white;
+  border: black solid 2px;
+}
+td{
+  width: 150px;
+  border: 1px solid white;
+}
