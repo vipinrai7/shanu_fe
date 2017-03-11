@@ -1,0 +1,3 @@
+create table table2 ( usn varchar(25) , name varchar(25), academics varchar(10), technical varchar(10), soft_skills varchar(10));
+create table table3 ( fid varchar(25) , name varchar(25), branch varchar(10), college varchar(10));
+create table table4 ( fid varchar(25) , name varchar(25), teaching varchar(10), publications varchar(10), co_curicular varchar(10));
